@@ -1,2 +1,4 @@
 # r-auditing-news
-Te rejat e fundit Ligjore
+
+Njoftimet e seksionit "Të rejat" për faqen https://r-auditing.al.
+Faqja lexon `news.json`; skedari përditësohet automatikisht çdo të hënë.
